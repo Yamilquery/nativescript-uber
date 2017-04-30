@@ -1,0 +1,36 @@
+{
+  "name": "nativescript-uber",
+  "version": "1.0.0",
+  "description": "Integration of rides-ios-sdk for Nativescript",
+  "main": "index.js",
+  "nativescript": {
+    "platforms": {
+      "ios": "1.0.0",
+      "android": "1.1.0"
+    }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yamilquery/nativescript-uber.git"
+  },
+  "keywords": [
+    "nativescript",
+    "uber",
+    "nativescript-uber",
+    "rides",
+    "cabify",
+    "ios",
+    "android",
+    "xcode",
+    "cocoapods"
+  ],
+  "author": "Yamil Díaz Aguirre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yamilquery/nativescript-uber/issues"
+  },
+  "homepage": "https://github.com/Yamilquery/nativescript-uber#readme"
+}
