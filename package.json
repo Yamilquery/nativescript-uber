@@ -1,12 +1,16 @@
 {
   "name": "nativescript-uber",
-  "version": "1.0.2",
+  "version": "1.2.2",
   "description": "Integration of rides-ios-sdk for Nativescript",
   "main": "index.js",
+  "devDependencies": {
+    "tns-core-modules": "^1.5.1",
+    "typescript": "^1.8.0"
+  },
   "nativescript": {
     "platforms": {
-      "android": "1.5.0",
-      "ios": "1.5.0"
+      "android": "1.5.1",
+      "ios": "1.5.1"
     }
   },
   "scripts": {
@@ -32,5 +36,6 @@
   "bugs": {
     "url": "https://github.com/Yamilquery/nativescript-uber/issues"
   },
-  "homepage": "https://github.com/Yamilquery/nativescript-uber#readme"
+  "homepage": "https://github.com/Yamilquery/nativescript-uber#readme",
+  "typings": "index.d.ts"
 }
