@@ -1,6 +1,6 @@
 {
   "name": "nativescript-uber",
-  "version": "1.2.2",
+  "version": "1.2.4",
   "description": "Integration of rides-ios-sdk for Nativescript",
   "main": "index.js",
   "devDependencies": {
